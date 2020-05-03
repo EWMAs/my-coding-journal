@@ -48,3 +48,15 @@
 **Link(s) to work**
 1. [Personal blog project](https://joycekettering.rocks/)
 
+## Day 5: Sunday, May 3rd 2020
+
+**Today's Progress**: 
+* Learned about media queries
+* Practiced mobile-first design
+* Learned about images being only element that's not responsive by default. Solution: set a `max-width: 100%;` so it doesn't stretch when screen is big and doesn't overflow when screen is small. 
+
+
+**Thoughts** Was going to have a break today and ended up working on HTML/CSS any way. Hope I don't regret it tomorrow when I'm back in the office :/ 
+
+**Link(s) to work**
+1. [Flexbox challenge](https://github.com/EWMAs/responsive-layouts/tree/master/challenge6_flexbox-from-scratch)
