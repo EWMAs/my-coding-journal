@@ -60,3 +60,18 @@
 
 **Link(s) to work**
 1. [Flexbox challenge](https://github.com/EWMAs/responsive-layouts/tree/master/challenge6_flexbox-from-scratch)
+
+## Day 6: Monday, May 4th 2020
+
+**Today's Progress**: 
+* Wrote a blog post about HTML being responsive by default
+* Recorded a 30 second video to demonstrate
+* Worked on perfect-job code 
+* Tried to make it more elegant, taking into account Antoine's proposed solution
+* Didn't work out. No progress made, no commit. 
+
+
+**Thoughts** My code works. Time to move on to the next section in the program. Someday soon I'll have a lightbulb moment and figure out how to streamline the code. I'll have to remember to update my post on StackOverflow to pay it forward.
+
+**Link(s) to work**
+1. [Blog post about HTML responsiveness](https://joycekettering.rocks/le-html-est-responsive-par-defaut/)
