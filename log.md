@@ -75,3 +75,14 @@
 
 **Link(s) to work**
 1. [Blog post about HTML responsiveness](https://joycekettering.rocks/le-html-est-responsive-par-defaut/)
+
+
+## Day 7: Tuesday, May 5th 2020
+
+**Today's Progress**: First day no coding. 
+
+
+**Thoughts** A little disappointed because I love streaks but not annoyed with myself because I simply could not make the time for it today. Proud of myself for the work delivered on other projects ;)
+
+**Link(s) to work**
+1. 
