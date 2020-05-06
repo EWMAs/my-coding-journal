@@ -79,10 +79,36 @@
 
 ## Day 7: Tuesday, May 5th 2020
 
-**Today's Progress**: First day no coding. 
+**Today's Progress at around 8pm**: First day no coding.
 
 
-**Thoughts** A little disappointed because I love streaks but not annoyed with myself because I simply could not make the time for it today. Proud of myself for the work delivered on other projects ;)
+**Thoughts at around 8pm** A little disappointed because I love streaks but not annoyed with myself because I simply could not make the time for it today. Proud of myself for the work delivered on other projects ;)
+
+**Link(s) to work at around 8pm**
+1. 
+
+**Today's Progress at 11:30pm**: 1 step forward, 4 steps back. Seem to have deleted all the new content I had created for new website....
+
+
+**Thoughts at 11:30pm** I actually want to throw up. It's only a new blog but there are 3 posts in there that I really hope are not lost. The plan: get some sleep and come back wiser tomorrow.
+
+**Link(s) to work at 11:30pm**
+1. Nada
+
+**Today's Progress at 11:53pm**: YES!!!! I figured it out! Had activated the wrong instance of my Ghost installed. Managed to find the one with all the content and got it back up and running. Woooohoooo!
+
+
+**Thoughts at 11:53pm** Relief, pride, joy. 
+
+**Link(s) to work at 11:53pm**
+1. [It's wooooorking!!!](https://joycekettering.rocks/)
+
+
+
+## Day 8: Wednesday, May 6th 2020
+
+**Today's Progress**: None. Didn't code today.
+
+**Thoughts** Feel good about it. Needed the day off :) Goal for tomorrow: make progress on Perfect Job project. Specifically, work on adding job description to Google Sheets and formatting json so key: value pairs look good in GS
 
 **Link(s) to work**
-1. 
