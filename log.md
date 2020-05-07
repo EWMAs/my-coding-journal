@@ -112,3 +112,16 @@
 **Thoughts** Feel good about it. Needed the day off :) Goal for tomorrow: make progress on Perfect Job project. Specifically, work on adding job description to Google Sheets and formatting json so key: value pairs look good in GS
 
 **Link(s) to work**
+
+
+## Day 9: Thursday, May 7th 2020
+
+**Today's Progress**: 
+* Added function to look at spreadsheet and create a list with all the URLs already included
+* Added function to compare list of URLs scraped in current session with URLs already added to spreadsheet
+* Updated function to add new URLs to spreadsheet without deleting URLs from previous sessions
+
+**Thoughts** Happy with the progress I'm making. Got to review a few basic concepts I had forgotten about like append to list! Program is getting a little dense and I'm sure can be streamlined but getting there little by little :)
+
+**Link(s) to work**
+1. [Perfect Job project](https://github.com/EWMAs/perfect_job)
