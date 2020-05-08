@@ -125,3 +125,16 @@
 
 **Link(s) to work**
 1. [Perfect Job project](https://github.com/EWMAs/perfect_job)
+
+
+## Day 10: Friday, May 8th 2020
+
+**Today's Progress**: 
+* Practiced working with Hunter.io's API
+* Practiced teaching others how it works (consolidating my knowledge in the process)
+* Practiced creating repository in Git and Github again
+
+**Thoughts** Learning a lot by doing + teaching. It's incredibly easy to forget how you did it the first time + explaining how things work to others forces you to clarify your thoughts and understanding in the first place.
+
+**Link(s) to work**
+1. [Working with APIs: Hunter.io](https://github.com/EWMAs/hunter_api)
