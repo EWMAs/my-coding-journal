@@ -138,3 +138,20 @@
 
 **Link(s) to work**
 1. [Working with APIs: Hunter.io](https://github.com/EWMAs/hunter_api)
+
+
+## Day 11: Saturday, May 9th 2020
+
+**Today's Progress**:
+* Practiced working in my Ubuntu server
+* Learned about viewing and editing files 
+
+**Thoughts** After my big scare on day 7, I've taken up the habit of reading through 2-3 tutorials before trying anything. This helps me: 
+* understand the big picture of what I'm trying to do
+* compare options and work out which one is the best for me 
+* take the time to learn about concepts that are still unclear 
+
+Basically, it helps me clarify my thoughts BEFORE getting stuck in the middle of a tutorial and blindly trying random commands because I can't back-track now! :) 
+
+**Link(s) to work**
+1. Didn't actually write code but practiced [working on an Ubuntu server with the command line](https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management) 
