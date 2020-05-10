@@ -155,3 +155,19 @@ Basically, it helps me clarify my thoughts BEFORE getting stuck in the middle of
 
 **Link(s) to work**
 1. Didn't actually write code but practiced [working on an Ubuntu server with the command line](https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management) 
+
+
+## Day 12: Sunday, May 10th, 2020
+
+**Today's Progress**:
+* Automatically add date of scrape to Google Sheet when updating with new URLs
+* Extracts job description + adds data in dedicated columns in Google Sheets
+
+**Thoughts** Started out meaning to fix one minor thing (datetime), ended up pretty much wrapping up the script in much less time than expected! Still a few things to fix (keep going to next page if more than 2 page results) and streamline to make the code more readable (one task = one function)
+
+After just 12 days into #100DaysOfCode, my first program is almost done. I had started it a few weeks before but wasn't working on it regularly despite watching tutorials and taking code "lessons" every day. Now I have something concrete that works and that I can show off to employers! :) 
+
+Building things is clearly a very powerful way to learn.
+
+**Link(s) to work**
+1. [Perfect Job Project](https://github.com/EWMAs/perfect_job)
