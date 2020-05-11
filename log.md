@@ -171,3 +171,14 @@ Building things is clearly a very powerful way to learn.
 
 **Link(s) to work**
 1. [Perfect Job Project](https://github.com/EWMAs/perfect_job)
+
+
+## Day 13: Monday, May 11th, 2020
+
+**Today's Progress**: recorded tutorial on how to use Hunter.io API (first of a three part series)
+
+**Thoughts** It's definitely helped me clarify what APIs are for and how they work 
+
+**Link(s) to work**
+1. [Python code for working with APIs](https://github.com/EWMAs/hunter_api)
+2. [Video tutorial, in French](https://youtu.be/9qYkPtmNihY)
