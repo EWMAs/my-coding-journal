@@ -182,3 +182,25 @@ Building things is clearly a very powerful way to learn.
 **Link(s) to work**
 1. [Python code for working with APIs](https://github.com/EWMAs/hunter_api)
 2. [Video tutorial, in French](https://youtu.be/9qYkPtmNihY)
+
+
+## Day 14: Tuesday, May 12th, 2020
+
+**Today's Progress**: None
+
+**Thoughts** Feeling ok about it. Worked on other cool stuff :)
+
+**Link(s) to work**
+1. [Post (in French) about lead scoring in Google Sheets](https://joycekettering.rocks/lead-scoring-avec-google-sheets/)
+
+
+## Day 15: Wednesday, May 13th, 2020
+
+**Today's Progress**:
+* practiced writing what my ideal job would look like in a Python script
+* turns out I didn't use it because it didn't look good as a LinkedIn banner
+
+**Thoughts** It was harder than I first imagined! Especially with no real data to test the validity of my code :/
+
+**Link(s) to work**
+1. [Screenshot of my silly "pretend" script :)](https://share.getcloudapp.com/7Ku0XG8A)
