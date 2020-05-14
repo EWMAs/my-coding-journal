@@ -204,3 +204,15 @@ Building things is clearly a very powerful way to learn.
 
 **Link(s) to work**
 1. [Screenshot of my silly "pretend" script :)](https://share.getcloudapp.com/7Ku0XG8A)
+
+
+## Day 16: Thursday, May 14th, 2020
+
+**Today's Progress**:
+* put browse launch into a function (don't need to comment in and out anymore when testing)
+* used recursiveness and it worked!
+* exceeded my Google API write request quota. A coming of age tale? :p
+
+**Thoughts** Struggled on something that seemed easy from the outset (go through all pages of results, not just first two). Could have tested my code without pushing data to Google Sheets everytime. Would have saved me API requests ;) 
+
+1. [Perfect Job Project](https://github.com/EWMAs/perfect_job)
