@@ -216,3 +216,18 @@ Building things is clearly a very powerful way to learn.
 **Thoughts** Struggled on something that seemed easy from the outset (go through all pages of results, not just first two). Could have tested my code without pushing data to Google Sheets everytime. Would have saved me API requests ;) 
 
 1. [Perfect Job Project](https://github.com/EWMAs/perfect_job)
+
+
+## Day 17: Thursday, May 15th, 2020
+
+**Today's Progress**:
+* fixed code to respect Google API limits
+* worked on handling exceptions for automating navigation and interaction with Apolearn platform (tried a few things but no real progress so far)
+* created new repository in GitHub for Apolearn project
+
+**Thoughts** A good night's sleep and a programming session in the morning can work wonders: solved this little hiccup in seconds when, although solution seemed clear last night, foggy brain wasn't confidence of fixing it on the spot and worried about messing up the rest. For one line of code!
+
+For the handling exceptions thing, might want to takes 20-30 minutes to take a step back and think about the problem on paper
+
+1. [Perfect Job Project](https://github.com/EWMAs/perfect_job)
+2. [Automating navigation and interaction with Apolearn](https://github.com/EWMAs/apolearn-interaction)
