@@ -218,7 +218,7 @@ Building things is clearly a very powerful way to learn.
 1. [Perfect Job Project](https://github.com/EWMAs/perfect_job)
 
 
-## Day 17: Thursday, May 15th, 2020
+## Day 17: Friday, May 15th, 2020
 
 **Today's Progress**:
 * fixed code to respect Google API limits
@@ -231,3 +231,14 @@ For the handling exceptions thing, might want to takes 20-30 minutes to take a s
 
 1. [Perfect Job Project](https://github.com/EWMAs/perfect_job)
 2. [Automating navigation and interaction with Apolearn](https://github.com/EWMAs/apolearn-interaction)
+
+
+## Day 18: Saturday, May 16th, 2020
+
+**Today's Progress**:
+* reviewed code to call GET requests of Hunter API on a list of contacts hard-coded in the script
+* recorded part 2 of Hunter API tutorial (reviewed code from previous tutorial + coded and explained second section of the script)
+
+**Thoughts** It only took 1 take this time around (compared to 3-4 for part 1). Partly because there was more standard Python and less API so I was more comfortable but also because my understanding of API requests improved when I recorded that first tutorial. Definitely scary to put myself out there like this but worth it, if only to improve my own understanding and learning skills!
+
+1. [Python code for working with the Hunter.io API](https://github.com/EWMAs/hunter_api)
