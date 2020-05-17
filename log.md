@@ -242,3 +242,15 @@ For the handling exceptions thing, might want to takes 20-30 minutes to take a s
 **Thoughts** It only took 1 take this time around (compared to 3-4 for part 1). Partly because there was more standard Python and less API so I was more comfortable but also because my understanding of API requests improved when I recorded that first tutorial. Definitely scary to put myself out there like this but worth it, if only to improve my own understanding and learning skills!
 
 1. [Python code for working with the Hunter.io API](https://github.com/EWMAs/hunter_api)
+
+
+## Day 19: Sunday, May 17th, 2020
+
+**Today's Progress**: 
+* reviewed code to authenticate myself as Google account user in Python
+* reviewed code to get and push data from and to a Google Sheet workbook in Google Drive 
+* updated and tested code for part 3 of the tutorial on how to work with the Hunter.io API
+
+**Thoughts** Never hurts to review these things. Still don't quite understand the Google API documentation. In this case specifically, found a YouTube tutorial more helpful to follow along and then deconstruct and understand what we've been up to. I guess little by little I'll get a better sense of what to look for in more obscure API documentations :) 
+
+1. [Python code for working with the Hunter.io API](https://github.com/EWMAs/hunter_api)
