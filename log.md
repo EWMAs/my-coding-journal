@@ -215,6 +215,7 @@ Building things is clearly a very powerful way to learn.
 
 **Thoughts** Struggled on something that seemed easy from the outset (go through all pages of results, not just first two). Could have tested my code without pushing data to Google Sheets everytime. Would have saved me API requests ;) 
 
+**Link(s) to work**
 1. [Perfect Job Project](https://github.com/EWMAs/perfect_job)
 
 
@@ -229,6 +230,7 @@ Building things is clearly a very powerful way to learn.
 
 For the handling exceptions thing, might want to takes 20-30 minutes to take a step back and think about the problem on paper
 
+**Link(s) to work**
 1. [Perfect Job Project](https://github.com/EWMAs/perfect_job)
 2. [Automating navigation and interaction with Apolearn](https://github.com/EWMAs/apolearn-interaction)
 
@@ -241,6 +243,7 @@ For the handling exceptions thing, might want to takes 20-30 minutes to take a s
 
 **Thoughts** It only took 1 take this time around (compared to 3-4 for part 1). Partly because there was more standard Python and less API so I was more comfortable but also because my understanding of API requests improved when I recorded that first tutorial. Definitely scary to put myself out there like this but worth it, if only to improve my own understanding and learning skills!
 
+**Link(s) to work**
 1. [Python code for working with the Hunter.io API](https://github.com/EWMAs/hunter_api)
 
 
@@ -253,4 +256,18 @@ For the handling exceptions thing, might want to takes 20-30 minutes to take a s
 
 **Thoughts** Never hurts to review these things. Still don't quite understand the Google API documentation. In this case specifically, found a YouTube tutorial more helpful to follow along and then deconstruct and understand what we've been up to. I guess little by little I'll get a better sense of what to look for in more obscure API documentations :) 
 
+**Link(s) to work**
 1. [Python code for working with the Hunter.io API](https://github.com/EWMAs/hunter_api)
+
+
+## Day 20: Monday, May 18th, 2020
+
+**Today's Progress**:
+* created new Scrapy project
+* reviewed command line, virtual environments and Scrapy installation
+* got a better understanding of how Scrapy works (items, middlewares, pipelines and spiders)
+
+**Thoughts** Still a lot to learn and today was mostly theoretical and getting to grips with concepts but really enjoying how things I used to find very confusing are not so confusing anymore :)
+
+**Link(s) to work**
+1. [Scrapy practice projects](https://github.com/EWMAs/scrapy_practice)
