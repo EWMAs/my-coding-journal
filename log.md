@@ -283,3 +283,15 @@ For the handling exceptions thing, might want to takes 20-30 minutes to take a s
 
 **Link(s) to work**
 1. [Scrapy practice projects](https://github.com/EWMAs/scrapy_practice)
+
+
+## Day 22: Wednesday, May 20th, 2020
+
+**Today's Progress**:
+* learned more about XPATHs
+* discussed coding collaboration opportunities to keep each other motivated with fellow growth hacker 
+
+**Thoughts** It's pretty dense material. Have difficulty staying focused for long on the subject so trying to consume it in small increments, making sure I'm taking notes, testing things and understanding along the way. Hoping the Scrapy course gets more hands on fast because, although reviewing CSS selectors and learning about XPATHs is important, I need to be building real stuff to practice and feel like it's worth the effort.
+
+**Link(s) to work**
+Nothing to show for this
