@@ -295,3 +295,16 @@ For the handling exceptions thing, might want to takes 20-30 minutes to take a s
 
 **Link(s) to work**
 Nothing to show for this
+
+
+## Day 23: Thursday, May 21st, 2020
+
+**Today's Progress**: 
+* reviewed process to create Service Account Key in Google API
+* updated and tested code for part 3 of the tutorial on how to work with the Hunter.io API
+* made sure script works even when Hunter.io doesn't find an email (ie response is not 200)
+
+**Thoughts** Posting the first video 2 weeks ago and committing to one new video a week for 3 weeks was a good move. Probably wouldn't have gone through with these tutorials otherwise because it requires effort and there was no urgency to review my work (I knew I could do it afterall). It's been enjoyable and good practice.
+
+**Link(s) to work**
+1. [Python code for working with the Hunter.io API](https://github.com/EWMAs/hunter_api)
