@@ -312,10 +312,39 @@ Nothing to show for this
 
 ## Day 24: Friday, May 22nd, 2020
 
-**Today's Progress**: Reviewed process to create Service Account Key in Google API while recording take 1 of tutorial
+**Today's Progress**: 
+* reviewed process to create Service Account Key in Google API while recording take 1 of Hunter API tutorial
+* fixed Aposcrape script to play videos properly (solve selenium.common.exceptions.ElementNotVisibleException)
 
 
 **Thoughts** Video tutorial ran a bit long (34 minutes). Think I can probably clarify my thinking a little bit and record another take that explains stuff better. Goal is not just to show people how to do it (take 1 did that fine) but to explain things clearly along the way so people watching understand the logic and know WHY they're doing what they're doing. Even though each API is different and may use modules with different methods, explaining the logic of one is helpful in other situations.
 
 **Link(s) to work**
 1. [Python code for working with the Hunter.io API](https://github.com/EWMAs/hunter_api)
+2. [Automating navigation and interaction with Apolearn](https://github.com/EWMAs/apolearn-interaction)
+
+
+
+## Day 25: Saturday, May 23nd, 2020
+
+**Today's Progress**: None really. Pushed a commit to GitHub but that's about it :)
+
+
+**Thoughts** Feels good to relax!
+
+**Link(s) to work**
+None today.
+
+
+## Day 26: Sunday, May 24th, 2020
+
+**Today's Progress**: 
+* Recorded video tutorial explaining how Google APIs work (Drive and Sheets)
+* Learned how to backup my Ghost blog on the server and [how to save backup folder to local drive](https://stackoverflow.com/questions/28390798/copy-folder-from-server-to-local-machine-in-ubuntu)
+
+
+**Thoughts** 
+
+**Link(s) to work**
+1. [Python code for working with the Hunter.io API](https://github.com/EWMAs/hunter_api)
+2. [Personal blog project](https://joycekettering.rocks/)
