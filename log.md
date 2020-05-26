@@ -348,3 +348,25 @@ None today.
 **Link(s) to work**
 1. [Python code for working with the Hunter.io API](https://github.com/EWMAs/hunter_api)
 2. [Personal blog project](https://joycekettering.rocks/)
+
+
+## Day 27: Monday, May 25th, 2020
+
+**Today's Progress**: No progress. Focused all of my energy on job search. 
+
+
+**Thoughts** It paid off, got the offer, yey!
+
+**Link(s) to work**
+1. [New opportunity at Holaspirit](https://www.holaspirit.com/)
+
+
+## Day 28: Tuesday, May 26th, 2020
+
+**Today's Progress**: Not much. Just watched short video tutorial about XPATH fundamentals.
+
+
+**Thoughts** Feeling relieved but tired after 3 months job search finally paid off. My brain needs the rest. I'll be taking it easy in the next few days.
+
+**Link(s) to work**
+1. [New opportunity at Holaspirit](https://www.holaspirit.com/)
