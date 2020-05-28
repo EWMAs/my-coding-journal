@@ -370,3 +370,27 @@ None today.
 
 **Link(s) to work**
 1. [New opportunity at Holaspirit](https://www.holaspirit.com/)
+
+
+## Day 29: Wednesday, May 27th, 2020
+
+**Today's Progress**: Learning how to move up tree with XPATH
+
+**Thoughts** Tutorials are not as fun as building projects but a necessary "evil" to get a high-level understanding of stuff
+
+**Link(s) to work**
+1. [Udemy course about web scraping](https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash)
+
+
+## Day 30: Thursday, May 28th, 2020
+
+**Today's Progress**: 
+* learned how to move down tree with XPATH 
+* practiced launching scrapy crawl in virtual environment
+
+
+**Thoughts** Tutorials are not as fun as building projects but a necessary "evil" to get a high-level understanding of stuff + good to follow along, rewind and deconstruct along the way
+
+**Link(s) to work**
+1. [Udemy course about web scraping](https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash)
+2. [Scrapy practice projects](https://github.com/EWMAs/scrapy_practice)
