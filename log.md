@@ -394,3 +394,30 @@ None today.
 **Link(s) to work**
 1. [Udemy course about web scraping](https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash)
 2. [Scrapy practice projects](https://github.com/EWMAs/scrapy_practice)
+
+## Day 31: Friday, May 29th, 2020
+
+**Today's Progress**: Nada. 
+
+**Thoughts** Needed a break and I'm taking it. 
+
+**Link(s) to work**
+1. 
+
+## Day 32: Saturday, May 30th, 2020
+
+**Today's Progress**: Nada. 
+
+**Thoughts** Still need a break, still taking it.
+
+**Link(s) to work**
+1. 
+
+## Day 33: Sunday, May 31st, 2020
+**Today's Progress**:
+* watched and coded along a couple of Scrapy tutorials 
+
+**Thoughts** Less incentive to work on my sideproject related to job search since I found a job. Will get back to it in due course but it feels good to take foot off the gas after 4-7 months at full throttle.
+
+**Link(s) to work**
+1. [Udemy course about web scraping](https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash)
