@@ -421,3 +421,15 @@ None today.
 
 **Link(s) to work**
 1. [Udemy course about web scraping](https://www.udemy.com/course/web-scraping-in-python-using-scrapy-and-splash)
+
+
+## Day 34: Monday, June 1st, 2020
+**Today's Progress**:
+* Got bored watching and following along a Scrapy tutorial.
+* Started learning about Linux. 
+
+**Thoughts** Need real-life projects to learn programming. Scrapy course is disappointing. Following along is ok but feels like slow progress for superficial learning only. I'll learn Scrapy in due course, when I actually need it. So far, Beautiful Soup and Selenium have been enough to build the stuff I need. Will now focus on learning about Linux, Ubuntu, server setup, etc. Goal is to be able to maintain my Ghost instance on Ubuntu for joycekettering.rocks
+
+**Link(s) to work**
+1. [Udemy course about Linux](https://www.udemy.com/course/linux-system-admin)
+2. [Ghost blog on Digital Ocean](https://joycekettering.rocks/)
