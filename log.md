@@ -433,3 +433,13 @@ None today.
 **Link(s) to work**
 1. [Udemy course about Linux](https://www.udemy.com/course/linux-system-admin)
 2. [Ghost blog on Digital Ocean](https://joycekettering.rocks/)
+
+
+## Day 35: Tuesday, June 2nd, 2020
+**Today's Progress**:
+* Installing Ubuntu in Virtual Box. Learning more about how things work. Connecting the dots.
+
+**Thoughts** Feels like a big mess of a puzzle that I'm slowly piecing together :)
+
+**Link(s) to work**
+1. [Udemy course about Linux](https://www.udemy.com/course/linux-system-admin)
