@@ -443,3 +443,16 @@ None today.
 
 **Link(s) to work**
 1. [Udemy course about Linux](https://www.udemy.com/course/linux-system-admin)
+
+
+## Day 36: Wednesday, June 3rd, 2020
+**Today's Progress**:
+* Troubleshooting Ubuntu install with Virtual Box (resolved password / keyboard issue)
+* Trying to configure Ubuntu setup and failing (something about additional guest)
+* Learning more about Ubuntu with OpenClassrooms course
+
+**Thoughts** It's tough getting a big picture of how things work! Learning from different sources helps. Sometimes video makes sense, sometimes text and illustrations work better.
+
+**Link(s) to work**
+1. [Udemy course about Linux](https://www.udemy.com/course/linux-system-admin)
+2. [OpenClassrooms course about Linux](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux)
