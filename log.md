@@ -456,3 +456,23 @@ None today.
 **Link(s) to work**
 1. [Udemy course about Linux](https://www.udemy.com/course/linux-system-admin)
 2. [OpenClassrooms course about Linux](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux)
+
+
+## Day 37: Thursday, June 4th, 2020
+**Today's Progress**:
+* Learning more about Linux and Ubuntu with OpenClassrooms course
+
+**Thoughts** OpenClassrooms is very VERY good. 
+
+**Link(s) to work**
+1. [OpenClassrooms course about Linux](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux)
+
+
+## Day 38: Friday, June 5th, 2020
+**Today's Progress**:
+* Learning more about Linux and Ubuntu with OpenClassrooms course
+
+**Thoughts** Really enjoying things coming together. Haven't been working on hands-on project as much as the past few weeks but slowly getting a clearer understanding of how things work. Feels like slow but important progress.
+
+**Link(s) to work**
+1. [OpenClassrooms course about Linux](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux)
