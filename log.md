@@ -476,3 +476,34 @@ None today.
 
 **Link(s) to work**
 1. [OpenClassrooms course about Linux](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux)
+
+
+## Day 39: Saturday, June 6th, 2020
+**Today's Progress**:
+* Learning more about Linux and Ubuntu with OpenClassrooms course
+
+**Thoughts** Not making much progress. Programming is not my current priority. 
+
+**Link(s) to work**
+1. [OpenClassrooms course about Linux](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux)
+
+
+## Day 40: Sunday, June 7th, 2020
+**Today's Progress**:
+* Learning more about Linux and Ubuntu with OpenClassrooms course
+
+**Thoughts** Had a quick look at the course but very slow progress. Need to consider how I'm going to finish this 100 Day Challenge. Part of me wants to do it but there's no point doing it if I'm not going to do it well. Working hard on concrete projects and, with the new job a couple of weeks away, I may need my focus elsewhere, i.e. on being great at my new job which will NOT include a lot of programming, at least not right away.
+
+**Link(s) to work**
+1. [OpenClassrooms course about Linux](https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux)
+
+
+## Day 41: Monday, June 8th, 2020
+**Today's Progress**:
+* No progress. 
+
+**Thoughts** I really want to keep this challenge going but deep down I know it's silly, just about keeping a streak going. Truth is: I don't have a high insentive to learn programming right now because I need to focus 90% of my learning energy on doing a great job in my new work which doesn't require Python skills off the blocks. I still want to practice and learn stuff about Ubuntu, servers and Python but it is no longer my priority and, with that in mind, I need to break the streak, bow out of the challenge before the 100 days and focus my attention elsewhere. It's not a failure because it's the right thing to do long term. Even if I don't like giving up, in this case, it is what I need to do. I need that new job to work out and it needs my full attention. I can still work on side projects like my Ghost blog hosted on an Ubuntu server and a scraping script for houses in the country but I can no longer commit to the 100 days of coding challenge.
+
+
+**Link(s) to work**
+1. 
