@@ -507,3 +507,13 @@ None today.
 
 **Link(s) to work**
 1. 
+
+
+## Day 42: Wednesday, June 17th, 2020
+**Today's Progress**:
+* Learning about Dataiku DSS
+
+**Thoughts** Back after close to 10 days without looking at or learning about code. Got to say I needed that but I also missed it. Don't necessarily have the time or motivation to work on a programming project right now but it's good to keep learning. Might focus on that for the next few days or weeks. Can't hurt to learn more about servers, computer science or machine learning. Even though it's not quite what the #100DaysOfCode is about, it's still code and it's still part of my journey to become a better coder and marketer.
+
+**Link(s) to work**
+1. [Dataiku documentation](https://doc.dataiku.com/dss/latest/)
