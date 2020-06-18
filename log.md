@@ -517,3 +517,13 @@ None today.
 
 **Link(s) to work**
 1. [Dataiku documentation](https://doc.dataiku.com/dss/latest/)
+
+
+## Day 43: Thursday, June 18th, 2020
+**Today's Progress**:
+* Working on new project to scrape houses for sales
+
+**Thoughts** Need to think about the data I have and the data I want on paper before diving into my Python script
+
+**Link(s) to work**
+1. [House scraping script](https://github.com/EWMAs/real_estate_scrape)
