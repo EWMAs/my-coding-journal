@@ -527,3 +527,13 @@ None today.
 
 **Link(s) to work**
 1. [House scraping script](https://github.com/EWMAs/real_estate_scrape)
+
+
+## Day 44: Tuesday, Junne 23rd, 2020
+**Today's Progress**:
+* Working on scraping real estate offers. 
+
+**Thoughts** Feels like I'm going round in circles. It'd be great if I could call on a mentor to help me out. Might post a question on one of the growth marketing communities I'm part of or the #100DaysOfCode Slack. Have a fairly negative experience asking for feedback on these types of forums (same with Stack Overflow) but worth a shot if I can't get unstuck in the next few work sessions.
+
+**Link(s) to work**
+1. [House scraping script](https://github.com/EWMAs/real_estate_scrape)
