@@ -529,7 +529,7 @@ None today.
 1. [House scraping script](https://github.com/EWMAs/real_estate_scrape)
 
 
-## Day 44: Tuesday, Junne 23rd, 2020
+## Day 44: Tuesday, June 23rd, 2020
 **Today's Progress**:
 * Working on scraping real estate offers. 
 
@@ -537,3 +537,16 @@ None today.
 
 **Link(s) to work**
 1. [House scraping script](https://github.com/EWMAs/real_estate_scrape)
+
+
+## Day 45: Thursday, December 24th, 2020
+**Today's Progress**:
+* javaScript refresher with freeCodeCamp video: https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org
+
+**Thoughts**: 
+* It feels good to be coding again! :)
+* It's a shame I haven't updated this doc in a while even though I've been practicing coding on a fairly regular basis at work (e.g. making API calls, testing javaScript snippets for the Holaspirit website, etc.). It may not be very advanced stuff but still think it's worth recording and pushing to GitHub to visualize the efforts put in and my progress in the long term.
+* By now, I think I understand the basics pretty well BUT I've noticed that, "in the real world", I often get stuck when it comes to writing and testing javaScript. For example, I couldn't figure out how to do an HTTP request to send the contents of a contact form to talkspirit. I had to write a webhook and use Zapier.
+
+**Link(s) to work**
+1. No links today. Just playing around with console logs.
