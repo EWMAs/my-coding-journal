@@ -542,6 +542,7 @@ None today.
 ## Day 45: Thursday, December 24th, 2020
 **Today's Progress**:
 * javaScript refresher with freeCodeCamp video: https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org
+* working on HTTP request to talkspirit after Webflow form submission
 
 **Thoughts**: 
 * It feels good to be coding again! :)
@@ -549,4 +550,21 @@ None today.
 * By now, I think I understand the basics pretty well BUT I've noticed that, "in the real world", I often get stuck when it comes to writing and testing javaScript. For example, I couldn't figure out how to do an HTTP request to send the contents of a contact form to talkspirit. I had to write a webhook and use Zapier.
 
 **Link(s) to work**
-1. No links today. Just playing around with console logs.
+1. [Takeaways from today's session](https://github.com/EWMAs/javaScriptLearning/blob/master/javaScriptBasics.html)
+2. [Start again on minute 32](https://youtu.be/PkZNo7MFNFg?t=1921)
+
+## Day 46: Friday, December 25th, 2020
+**Today's Progress**:
+* Learned more about [VPS Hosting](https://www.liquidweb.com/what-is-vps-hosting/)
+* Exported Wordpress data for Creative & Productive to test import in Ghost
+* Looked into [serving two blogs under one Digital Ocean droplet](https://www.digitalocean.com/community/tutorials/how-to-serve-multiple-ghost-blogs-on-one-vps-using-nginx-server-blocks)
+* Found a good intro blog on [how to create a Ghost droplet in Digital Ocean](https://www.ghostforbeginners.com/how-to-install-ghost-on-digitalocean/)
+
+**Thoughts**:
+* Need a couple of hours to backup WP instance of creative and productive, setup disqus and prep for migration to Ghost. Need to make sure I can rollback fairly easily if needed. 
+* Best to start from scratch and follow the two tutorials mentioned above. Risk messing up my JKrocks instance otherwise.
+* Should probably look into what it takes to keep droplet secure and up to date in the long run as well. Risk hitting a wall at some point in the future otherwise.
+* It's great noticing that some stuff that didn't make sense a few months ago make more sense now.
+
+**Link(s) to work**
+1. 
