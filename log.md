@@ -568,3 +568,16 @@ None today.
 
 **Link(s) to work**
 1. 
+
+## Day 47: Tuesday, December 29th, 2020
+**Today's Progress**:
+* Learned more about web development best practices
+* Completed chapters 1 and 2 of [Miguel Grinberg's "Flask Mega-Tutorial"](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+**Thoughts**:
+* Great insights about web development, template inheritance and how useful it can be to create mock objects (instead of trying to build the feature that will allow the object to be populated in the long term, e.g. a user system or a list of articles)
+* Super clear explanation about why virtual environments are important and why you would set one up for each app
+
+
+**Link(s) to work**
+1. https://github.com/EWMAs/microblog
