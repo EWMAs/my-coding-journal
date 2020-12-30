@@ -581,3 +581,16 @@ None today.
 
 **Link(s) to work**
 1. https://github.com/EWMAs/microblog
+
+
+## Day 48: Wednesday, December 30th, 2020
+**Today's Progress**:
+* Learned more about web forms, data validation and how Flask works
+* Completed chapter 3 of [Miguel Grinberg's "Flask Mega-Tutorial"](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iii-web-forms)
+
+**Thoughts**:
+* Not understanding everything I'm doing but feel like I'm drinking in stuff that will make sense later. // what Epstein's book "Range" talks about regarding musicians who've learned to improvize by testing trying and failing being way more flexible and creative than classically trained musicians who are stuck to sheet music: it doesn't have to make sense right away. You build solid foundations and instinct little by little.
+
+
+**Link(s) to work**
+1. https://github.com/EWMAs/microblog
