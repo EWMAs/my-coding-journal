@@ -594,3 +594,14 @@ None today.
 
 **Link(s) to work**
 1. https://github.com/EWMAs/microblog
+
+## Day 49: Sunday, August 8th, 2021
+**Today's Progress**:
+* Watched lecture 1 of CS50
+* filled my Scratch assigment for lecture 0
+
+**Thoughts**:
+* was fun taking inspiration from real life and programming a little game of a flea chasing a dog around with the Jaws theme song riff in the background
+
+**Link(s) to work**
+1. https://scratch.mit.edu/projects/559073712/editor
